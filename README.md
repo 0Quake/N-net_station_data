@@ -3,6 +3,9 @@
 <img width="1431" height="765" alt="image" src="https://github.com/user-attachments/assets/a4ee58d2-842a-4652-8388-232fe9fabdae" />
 Made with Natural Earth.
 
+## 利用方法
+パブリックドメインとします。必要に応じて以下に示す原典を表示して、ご自由にご利用ください、
+
 ## データ内容
 ### 表1 keyと値の関係
 |key|例|出典番号|説明|
@@ -22,7 +25,6 @@ Made with Natural Earth.
 csv、json形式のデータは、各観測点について、表1に示す項目が記録されている。  
 geojson形式のデータは、[JGD2011](https://epsg.io/6668)で作成され、各観測点がPoint地物で記録されている。また、各地物のpropertiesに表1に示す項目が記録されている。
 空欄は無い。
-
 
 ## 作成手法
 出典1から取得した観測点データよりGISデータを形成し、出典2・3を参考にGISソフトウェア上で出典4のコード表と突合した。作成後、全数検査を行った。
